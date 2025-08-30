@@ -1,6 +1,6 @@
 # README.md
 
-# Google Maps Restaurant Reviews Classification
+# Reviews Classification
 
 ---
 
