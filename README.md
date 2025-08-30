@@ -1,6 +1,6 @@
 # README.md
 
-# Reviews Classification
+# Filtering the Noise: ML for Trustworthy Location Reviews
 
 ---
 
