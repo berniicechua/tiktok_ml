@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This Google Colab pipeline allows you to clean, preprocess, and classify online reviews. The workflow includes:
+This Jupyter Notebook pipeline allows you to clean, preprocess, and classify online reviews. The workflow includes:
 
 1. Downloading Kaggle datasets and public JSON review files.
 2. Cleaning and preprocessing text:
